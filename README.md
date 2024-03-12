@@ -1,6 +1,6 @@
 hi, im Mamat
 i love python language
-I'm learning python right now
+I'm learning python right now.
 this is a personal account
 
 <!---
