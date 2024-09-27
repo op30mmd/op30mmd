@@ -1,10 +1,8 @@
-hi, im Mamat
-i love python language
-I'm learning python right now.
-this is a personal account
+**Hello, python community**
 
-For Donations:
-UQBVCkyLcaxszPWxrOZSRM3UYiXDRI2iOCUGMEHvvJtVBupQ - Send Only TON and TON Tokens on TON network
+my name is mohammad and im currently working on telegram bots based on telethon privately.
+
+i learned 50% of python and im trying to learn telethon too.
 
 <!---
 op30mmd/op30mmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
