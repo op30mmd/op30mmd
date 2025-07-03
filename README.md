@@ -1,20 +1,15 @@
-**Hello**
+```
+Dead Inside.
+```
 
-my name is mohammad and im currently working on Dart and then Flutter framework.
+Im currently a hobbyist.
 
-# other things i do:
-- Packaging softwares for linux distributions (rarely)
-- Helping translation of open-source softwares to Persian
-- Creating bots with telethon (python lib)
-- Creating websites (too rare)
+I Worked With Dart, Python, C++, Bash, JS, TS (All my PL's Knowledge are not complete)
 
-# misc information
-- My Operating System is **Windows 11 IoT Enterprise LTSC** currently
-- I Love **Linux** and **FOSS Community**
+I do Translations too.
 
-i learned 50% of python and im trying to learn Dart too.
+Currently i don't have the motivation to continue learning. maybe later.
 
-<!---
-op30mmd/op30mmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+Dead Outside
+```
