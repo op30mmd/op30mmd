@@ -4,7 +4,9 @@
 
 Im currently a hobbyist.
 
-I Worked With Dart, Python, C++, Bash, JS, TS (All my PL's Knowledge are not complete)
+I Worked With Dart, Python, C++, Bash, JS, TS (All my PL/Scripting's Knowledge are not complete)
+
+HTML + CSS: Complete.
 
 I do Translations too.
 
