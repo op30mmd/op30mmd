@@ -10,8 +10,7 @@ HTML + CSS: Complete.
 
 I do Translations too.
 
-Currently i'm learning web front-end.
-
+Currently i'm vibe-coding (for fun, i have to study for now and i can't do programming along with it)
 ```
 =====================================================================================
 ```
